@@ -4,7 +4,7 @@
 
 This repository contains a collection of practical statistical analyses and data science projects developed during my studies at **AGH University of Krakow**. Each case study demonstrates a different stage of the data pipeline: from preprocessing and exploratory data analysis (EDA) to statistical inference and predictive modeling.
 
-## 🛠️ Skills & Methodology
+## Skills & Methodology
 In these projects, I apply the following techniques:
 - **Statistical Testing:** Shapiro-Wilk, Pearson/Spearman correlation, Hypothesis testing.
 - **Data Preprocessing:** Cleaning, transforming, and integrating raw datasets for analysis.
@@ -13,7 +13,7 @@ In these projects, I apply the following techniques:
 
 ---
 
-## 📈 Case Studies Overview
+## Case Studies Overview
 
 ### 1. Automotive Engineering: Horsepower vs. Gear Ratio
 **Dataset:** `mtcars`  
@@ -45,11 +45,14 @@ Developing a linear regression model to predict sales volume based on customer t
 
 ---
 
-## 📝 Project Structure
+## Project Structure
 Each folder typically includes:
 - The **R Script** or **RMarkdown** file containing the source code.
 - A **Final Report (PDF)** with detailed interpretations, charts, and statistical conclusions.
 - The **Dataset** (unless is from R library).
 
 ---
-**Copyright (c) 2025 Karol Bartnicki** *Developed as part of the Data Science curriculum at AGH University.*
+## Copyright
+
+Copyright (c) 2025 Karol Bartnicki
+All rights reserved.
