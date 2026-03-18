@@ -49,7 +49,7 @@ Developing a linear regression model to predict sales volume based on customer t
 Each folder typically includes:
 - The **R Script** or **RMarkdown** file containing the source code.
 - A **Final Report (PDF)** with detailed interpretations, charts, and statistical conclusions.
-- The **Dataset** (unless restricted by license).
+- The **Dataset** (unless is from R library).
 
 ---
 **Copyright (c) 2025 Karol Bartnicki** *Developed as part of the Data Science curriculum at AGH University.*
