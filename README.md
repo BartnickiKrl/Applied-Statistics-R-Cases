@@ -1,5 +1,3 @@
-# Applied-Statistics-R-Ccases
-
 # Applied Statistics R Cases
 
 This repository contains a collection of practical statistical analyses and data science projects developed during my studies at **AGH University of Krakow**. Each case study demonstrates a different stage of the data pipeline: from preprocessing and exploratory data analysis (EDA) to statistical inference and predictive modeling.
